@@ -21,6 +21,7 @@ class Welcome extends Application {
     {
         $this->data['pagetitle'] = 'Zerotype Website Template';
         $this->data['pagebody'] = 'welcome';
+        $this->data['precontent'] = 'ad';
         $this->render();
     }
 }

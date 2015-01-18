@@ -25,12 +25,13 @@
                 <li>
                     <a href="/about">About</a>
                 </li>
-                <li class="active">
+                <li>
                     <a href="/contact">Contact</a>
                 </li>
             </ul>
         </div>
     </div>
+    {precontent}
     <div id="contents">
         {content}
     </div>
